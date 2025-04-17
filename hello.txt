@@ -1,1 +1,11 @@
+Welcome to Git!
+Save the file.
+Check the status of the repository again:
+Use Git Bash
 
+git status
+Stage and commit the change:
+bash
+
+git add hello.txt
+git commit -m "Update hello.txt with a welcome message"
